@@ -1,0 +1,325 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&family=Original+Surfer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&family=Original+Surfer&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=New+Tegomin&family=Original+Surfer&family=Pacifico&display=swap');
+
+
+
+.navbar{
+    background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/N13e7awhgiljgescq/abstract-orange-background-texture-moving-digital-backdrop_sd_x2hc_x_thumbnail-full01.png");
+    color: white;
+    
+}
+.middle{
+    background-color: rgb(218, 133, 7);
+}
+.jumbotron{
+    background: url("https://www.glassdoor.com/employers/app/uploads/sites/2/2018/08/software-engineers-at-work.jpg") center no-repeat;
+}
+.welcome{
+   font-family: 'KaligraficaRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+.services{
+font-family: 'KaligraficaRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+.clients{
+    font-family: 'SpotCookieRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 50px;
+   color: rgb(40, 4, 73);
+}
+.leading{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'New Tegomin', serif;
+    font-size: 20px;
+}
+.company{
+    font-weight: bold;
+   font-style: normal;
+    text-align: left;
+    
+    color: rgb(12, 12, 12);
+    
+}
+.ourclients{
+    font-family: 'New Tegomin', serif;
+    font-family: 'Original Surfer', cursive;
+}
+.companyinfo{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.companyinfo1{
+    font-family: 'CopyrightHouseIndustriesNotLicensedforDesktopUse';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 45px;
+   color: rgba(10, 7, 7, 0.685);
+}
+.para1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.allcards{
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.software{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.privatepolicy{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Info{
+    font-weight: 500;
+    color: rgb(10, 10, 10);
+}
+.container{
+    max-width: 1250px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.image1{
+    width: 100%;
+    padding-top: 30%; /*(height/width)*/
+    background: url("http://www.rippleslearning.com/wp-content/uploads/2018/09/about-us-1024x683.jpg")no-repeat center;
+    background-size: cover;
+}
+.container2{
+    max-width: 1250px;
+    margin:auto;
+}
+.image2{
+    width: 100%;
+    padding-top: 27%;
+    background: url("http://www.dsscotland.org.uk/wordpress/wp-content/uploads/2015/05/contact-us.jpg")no-repeat center;
+    background-size: cover;
+}
+.heading1{
+    font-family: 'GuasmallyRegular';
+   font-weight: normal;
+   font-style: normal;
+   color: rgb(1, 43, 122);
+   font-size: 50px;
+}
+.heading3{
+    font-family: 'FeedjiqueRegular';
+   font-weight: normal;
+   font-style: normal;
+   color: rgb(141, 4, 4);
+   font-size: 50px;
+}
+
+.para3{
+    font-family: 'EptKazooMedium';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(60, 60, 107);
+}
+.training1{
+    font-family: 'AveriaRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 50px;
+}
+.para4{
+    font-family: 'EptKazooMedium';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 20px;
+}
+.contactform{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container3{
+    max-width: 1250px;
+    margin:auto;
+}
+.image3{
+    width: 100%;
+    padding-top: 27%;
+    background: url("https://aviweb.in/wp-content/uploads/bfi_thumb/our-clients-aviweb-technologies-pvt-ltd-mcmshilyhqerswkunl315g0mvynak7t1tt17st7avk.jpg")no-repeat center;
+    background-size: cover;
+}
+.container4{
+    max-width: 1250px;
+    margin:auto;
+}
+.image4{
+    width: 100%;
+    padding-top: 23%;
+    background: url("https://pearlhosts.com/sites/default/files/2019-03/software-development-banner.jpg")no-repeat center;
+    background-size: cover;
+}
+.container5{
+    max-width: 1250px;
+    margin:auto;
+}
+.image5{
+    width: 100%;
+    padding-top: 23%;
+    background: url("https://www.goodworklabs.com/wp-content/uploads/2017/05/5b-10-tips-for-creating-a-better-mobile-application.jpg") no-repeat center;
+    background-size: cover;
+}
+.mobile{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container6{
+    max-width: 1250px;
+    margin:auto;
+}
+.image6{
+    width: 100%;
+    padding-top: 30%;
+    background: url("https://www.leveragetech.com.au/wp-content/uploads/2018/05/Cloud-Computing-And-The-New-Era-Of-ERP-Software-Functionality.jpg") no-repeat center;
+    background-size: cover;
+}
+.cloud{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cloud1{
+    color: rgb(4, 4, 112);
+    font-family: 'MrsBeasleyRegular';
+   font-weight: bold;
+   font-style: normal;
+   font-size: 50px;
+}
+.para6{
+    font-family: 'CagliostroRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 20px;
+   color: rgb(2, 2, 87);
+}
+
+.client{
+    margin-left: 10px;
+    
+}
+.para8{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.private1{
+    font-family: 'ClaybornRegular';
+   font-weight: bold;
+   font-style: normal;
+}
+.division1{
+    font-family: 'ConstructiumRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 20px;
+}
+.disclaimer{
+    font-family: 'KelvinchItalic';
+   font-weight: bold;
+   font-style: italic;
+   font-size: 40px;
+}
+.container7{
+    max-width: 1250px;
+    margin:auto;
+}
+.image7{
+    width: 100%;
+    padding-top: 23%;
+    background: url("https://www.cosmoconsult.com/fileadmin/user_upload/International/EN-Pictures/Header_Visual/cosmo-consult-business-consulting-istock-76182113.jpg") no-repeat center;
+    background-size: cover;
+}
+.consult{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container8{
+    max-width: 1250px;
+    margin:auto;
+}
+.image8{
+    width: 100%;
+    padding-top: 30%;
+    background: url("http://paragonstrategies.com/wp-content/uploads/2018/01/training-community1.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.training{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container9{
+    max-width: 1250px;
+    margin:auto;
+}
+.image9{
+    width: 100%;
+    padding-top: 30%;
+    background: url("https://t3.ftcdn.net/jpg/00/70/82/82/240_F_70828214_izclLNZyNZU9YnzgO1IKElglzJGuhZfG.jpg") no-repeat center;
+    background-size: cover;
+}
+.container10{
+    max-width: 1250px;
+    margin:auto;
+}
+.image10{
+    width: 100%;
+    padding-top: 30%;
+    background: url("https://www.financehouse.ae/wp-content/uploads/2015/09/disclaimer.jpg") no-repeat center;
+    background-size: cover;
+}
+.para5{
+    font-family: 'ManicMondayRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 25px;
+}
+
+.card{
+    width: 40%;
+  }
+
+@media (min-width:768px){
+.cards{
+    display: flex;
+}
+}
+.card1{
+    width: 40%;
+  }
+.card2{
+    width: 40%;
+  }
+.card3{
+    width: 40%;
+  }
+@media (min-width:760px){
+.cardsgrp{
+    margin-left: 30px;
+    margin-right: 15px;
+    display: flex;
+}
+}
+.row{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.footer{
+    background: url("https://wallpapercave.com/wp/GEMb4Wi.jpg");
+    color: white;
+    
+}
